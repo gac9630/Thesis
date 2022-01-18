@@ -2,3 +2,5 @@ This is the chapter 1 of my thesis.
 
 line 1
 line 2
+line 3
+line 4
