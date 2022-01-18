@@ -13,4 +13,9 @@ line 10
 
 same line
 
+
 Just to make merge conflict
+
+Modification on chapter 1
+
+Conflict resolved!
